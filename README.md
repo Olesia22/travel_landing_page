@@ -1,1 +1,1 @@
-https://GITHUB-USERNAME.github.io/travel_landing_page
+https://olesia22.github.io/travel_landing_page
